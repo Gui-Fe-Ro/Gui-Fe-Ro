@@ -1,4 +1,4 @@
-<img src="https://img.icons8.com/nolan/64/computer.png" width="100px" align="right" />
+<img src="https://img.icons8.com/ios/50/000000/my-computer--v1.png" width="100px" align="right"/>
 
 ### Hi! I am Guilherme Félix. 👋
 
