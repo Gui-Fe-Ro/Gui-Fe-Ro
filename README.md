@@ -1,6 +1,6 @@
-<img src="https://img.icons8.com/nolan/64/computer.png" align="right" />
+<img src="https://img.icons8.com/nolan/64/computer.png" width="200px" align="right" />
 
-# Hi! I am Guilherme Félix 👋
+### Hi! I am Guilherme Félix 👋
 
 Faço Engenharia da Computação no Instituto Federal do Triângulo Mineiro.
 
