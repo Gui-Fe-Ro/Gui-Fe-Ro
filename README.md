@@ -9,7 +9,7 @@ I'm studying Computer Engineering at Instituto Federal do Triângulo Mineiro. <i
 
 ☕ Lover coffe
 
-📈 Future data scientist
+📈 Future full stack developer
 
 🤖 In love with Machine Learning
 
